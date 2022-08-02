@@ -20,6 +20,8 @@ Please see the examples.
 \author{Stefano M. Iacus}
 \keyword{ package }
 \examples{
+\dontrun{
 setwd(file.path(.libPaths()[1],"opefimor","book"))
 dir()
+}
 }
